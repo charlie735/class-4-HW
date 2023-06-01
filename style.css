@@ -1,0 +1,246 @@
+button{
+  font-size: 30px;
+  padding-top: 2px;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover{
+  background-color: rgb(241, 241, 241);
+}
+.im1{
+  width: 300px;
+  background-color: brown;
+  
+}
+#im1{
+  text-align: center;
+}
+.cd-3{
+  text-align: center;
+}
+.link1{
+  font-size:large;
+  text-align: center;
+  border: solid darkgrey;
+  padding: 5px  10px 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  
+  width: 50%;
+
+}.link2{
+  font-size:large;
+  text-align: right;
+  padding: 5px  10px 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.link1:hover{
+  background-color: rgb(191, 186, 186);
+}
+.link2:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.opacity{
+  opacity: 0.5;
+}
+.en{
+  padding-top: 40px;
+}
+.tb-2{
+  text-align: center;
+}
+.tb-2>a{
+  text-decoration: none;
+  color: black;
+}
+.tb-2>a:hover{
+  color: blue;
+}
+.football{
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(72, 131, 232);
+}
+.desk{
+  font-weight: bold;
+  font-size: 15px;
+}
+.opa2{
+  opacity: 0.5;
+  float: left;
+  font-size: 15px;
+}
+.tb-3{
+  text-align: right;
+  font-size: 25px;
+  float: right;
+ 
+}
+.tbl-3>i{
+  padding: 2px;
+}
+
+.tbl-3:hover>i{
+  font-size:30px;;
+}
+.img2{
+  width: 900px;
+}
+.opa-3{
+  font-size: 13px;
+  opacity: 0.7;
+}
+.opa-4{
+  font-size: 13px;
+  opacity: 0.7;
+}
+.tb-4{
+  font-weight: 350;
+  word-spacing: normal;
+  line-height: 30px;
+  padding-top: 0%;
+}
+.subtable-1-text{
+  float: left;
+  display:block;
+  width: 60%;
+  padding-top: 20px;
+}
+.subtable-1-link{
+  font-size: 20px;
+  text-decoration:none ;
+  font-weight: bold;
+  padding-top: 30px;
+  color: black;
+}
+.subtable-1-link:hover{
+  color: blue;
+}
+.subtable-1-img{
+  float: right;
+  width: 40%;
+}
+.clearfix{
+  content: "";
+  clear: both;
+}
+.subtable-2-text{
+  float: left;
+  display:block;
+  width: 60%;
+  padding-top: 20px;
+}
+.subtable-2-link{
+  font-size: 20px;
+  text-decoration:none ;
+  font-weight: bold;
+  padding-top: 30px;
+  color: black;
+}
+.subtable-2-link:hover{
+  color: blue;
+}
+.subtable-2-img{
+  float: right;
+  width: 40%;
+  padding-top: 20px;
+}
+.clearfix{
+  content: "";
+  clear: both;
+}
+.subtable-3-text{
+  float: left;
+  display:block;
+  width: 60%;
+  padding-top: 20px;
+}
+.subtable-3-link{
+  font-size: 20px;
+  text-decoration:none ;
+  font-weight: bold;
+  padding-top: 30px;
+  color: black;
+}
+.subtable-3-link:hover{
+  color: blue;
+}
+.subtable-3-img{
+  float: right;
+  width: 40%;
+  padding-top: 20px;
+}
+.clearfix{
+  content: "";
+  clear: both;
+}
+.subtable-4-text{
+  float: left;
+  display:block;
+  width: 60%;
+  padding-top: 20px;
+}
+.subtable-4-link{
+  font-size: 20px;
+  text-decoration:none ;
+  font-weight: bold;
+  padding-top: 30px;
+  color: black;
+}
+.subtable-4-link:hover{
+  color: blue;
+}
+.subtable-4-img{
+  float: right;
+  width: 40%;
+  padding-top: 20px;
+}
+.clearfix{
+  content: "";
+  clear: both;
+}
+.subtable-5-text{
+  float: left;
+  display:block;
+  width: 60%;
+  padding-top: 20px;
+}
+.subtable-5-link{
+  font-size: 20px;
+  text-decoration:none ;
+  font-weight: bold;
+  padding-top: 30px;
+  color: black;
+}
+.subtable-5-link:hover{
+  color: blue;
+}
+.subtable-5-img{
+  float: right;
+  width: 40%;
+  padding-top: 20px;
+}
+.clearfix{
+  content: "";
+  clear: both;
+}
+.last1{
+  text-decoration: none;
+  padding: 10px;
+  background-color: rgb(202, 200, 200);
+  color: blue;
+  
+}
+.last1:hover{
+  background-color: rgb(186, 182, 182);
+}
+
+
+
+
+
+
